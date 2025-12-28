@@ -3,7 +3,7 @@
 Projeto de estudo focado em layout, tipografia e composição visual, inspirado em uma homepage de e-commerce esportivo.
 
 ## Preview
-- GitHub Pages: (coloque seu link aqui)
+- GitHub Pages: https://danicorazza.github.io/nike-inspired-landing/
 
 ## O que eu pratiquei
 - Estruturação semântica básica (header, nav, main, section, footer)
