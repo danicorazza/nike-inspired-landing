@@ -14,11 +14,6 @@ Projeto de estudo focado em layout, tipografia e composição visual, inspirado 
 - Navegação interna com âncoras (`href="#section"`)
 - Foco visível para navegação por teclado (`:focus-visible`)
 
-## Como rodar
-1. Clone o repositório
-2. Abra o `index.html` no navegador  
-   (ou use Live Server no VS Code)
-
 ## Status
 ✅ Versão estática finalizada (UI Study)
 
