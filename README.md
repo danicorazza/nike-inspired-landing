@@ -1,0 +1,27 @@
+# Nike-inspired Landing Page (HTML + CSS)
+
+Projeto de estudo focado em layout, tipografia e composição visual, inspirado em uma homepage de e-commerce esportivo.
+
+## Preview
+- GitHub Pages: (coloque seu link aqui)
+
+## O que eu pratiquei
+- Estruturação semântica básica (header, nav, main, section, footer)
+- Layout com Flexbox
+- Camadas com `position` + `z-index`
+- Overlay com gradiente para contraste de texto em imagens
+- Ajustes de responsividade com `@media`
+- Navegação interna com âncoras (`href="#section"`)
+- Foco visível para navegação por teclado (`:focus-visible`)
+
+## Como rodar
+1. Clone o repositório
+2. Abra o `index.html` no navegador  
+   (ou use Live Server no VS Code)
+
+## Status
+✅ Versão estática finalizada (UI Study)
+
+## Créditos
+- Imagens de produtos: Unsplash
+- Ícones: Font Awesome
